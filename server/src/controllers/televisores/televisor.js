@@ -1,5 +1,5 @@
 const client = require("../../database/db"),
-    db = client.db('OscarDB');
+    db = client.db('DATEC');
 
 let controller = {
 
